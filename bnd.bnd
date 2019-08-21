@@ -1,0 +1,5 @@
+Bundle-Name: commerce-singup-checkout-step
+Bundle-SymbolicName: ir.sain.commerce.checkout.step
+Bundle-Version: 1.0.0
+Export-Package: ir.sain.commerce.checkout.step.api
+Web-ContextPath: /commerce-singup-checkout-step
